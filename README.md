@@ -19,11 +19,11 @@ Installation
 
 Clone this repository by running the following command in your terminal:
 
-    bash git clone https://github.com/your-username/snapshot.git
+     git clone https://github.com/your-username/snapshot.git
     
 Navigate to the project directory:
 
-    bash cd snapshot
+     cd snapshot
     
 Install the required dependencies:
 

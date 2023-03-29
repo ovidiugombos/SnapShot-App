@@ -49,4 +49,4 @@ Built With:
        Flickr API - RESTful API for retrieving photos from Flickr
        Context API - React's mechanism for sharing state between components
   
-PS. The code can be organized better, an i will do that soon 🤫😎
+PS. The code can be organized better, and i will do that soon 🤫😎

@@ -15,9 +15,13 @@ To run Snapshot, you'll need to have Node.js installed on your machine.
 
 Installation
 Clone this repository by running the following command in your terminal:
+
     bash git clone https://github.com/your-username/snapshot.git
+    
 Navigate to the project directory:
+
     bash cd snapshot
+    
 Install the required dependencies:
 
     npm install

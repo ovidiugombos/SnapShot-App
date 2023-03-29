@@ -43,10 +43,10 @@ Upon opening Snapshot, you'll see a search bar at the top of the page.
 Type in one or more keywords and press enter or click the search icon to display the corresponding images.
 
 
-Built With
+Built With:
 
-  React - JavaScript library for building user interfaces
-  Flickr API - RESTful API for retrieving photos from Flickr
-  Context API - React's mechanism for sharing state between components
+       React - JavaScript library for building user interfaces
+       Flickr API - RESTful API for retrieving photos from Flickr
+       Context API - React's mechanism for sharing state between components
   
 PS. The code can be organized better, an i will do that soon 🤫😎
